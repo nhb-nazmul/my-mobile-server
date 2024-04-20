@@ -1,0 +1,15 @@
+{
+  "name": "my-mobile-server",
+  "version": "1.0.0",
+  "description": "created with termux and acode",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nhb",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
